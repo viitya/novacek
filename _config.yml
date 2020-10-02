@@ -4,3 +4,26 @@ description: A meager web presence of one academic ape
 logo: img/vit_recent.jpg
 show_downloads: false
 google_analytics: UA-179496128-1
+docs_list_title: pages
+docs:
+
+- title: Professional bio
+  url: bio.md
+
+- title: Contact information
+  url: contact.md
+
+- title: Quick intro
+  url: index.md
+  
+- title: Not so professional bio
+- url: life.md
+
+- title: Research scribblings
+- url: publications.md
+
+- title: Scientific mysteries
+- url: research.md
+
+- title: Preaching knowledge
+- url: teaching.md
