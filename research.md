@@ -1,3 +1,7 @@
+---
+[Intro](index.html) | **[Mysteries](research.html)** | [Scribblings](publications.html) | [Preaching](teaching.html) | [Boring](bio.html) | [Other](life.html) | [Where?](contact.html)
+---
+
 Much to the despair of my loved ones, my curiosity has always been stronger than my common sense. That has led to my unreasonably eclectic research interests that have spanned the fields of mathematics, physics, philosophy, linguistics, political, cognitive and computer science, evolutionary, molecular and systems biology, medicine and what not (in more or less chronological order as to the time when I got afflicted with each of those particular obsessions).
 
 Obviously, I've never been able to learn enough to truly crack even some of the minor mysteries in any of those fields. But already during my PhD studies it dawned on me that perhaps some sort of biomedically-inclined AI research could be my thing (I won a nice little glass sculpture for doing that stuff, with $15,000 prize money to boot, which I took as a rather strong hint).

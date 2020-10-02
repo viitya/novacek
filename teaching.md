@@ -1,3 +1,7 @@
+---
+[Intro](index.html) | [Mysteries](research.html) | [Scribblings](publications.html) | **[Preaching](teaching.html)** | [Boring](bio.html) | [Other](life.html) | [Where?](contact.html)
+---
+
 As of the **Fall** semester of **2020**, I teach the following course:
 
 *   [**PB016 Artificial Intelligence I**](https://is.muni.cz/course/fi/podzim2020/PB016) at the [Faculty of Informatics](https://www.fi.muni.cz/) of [Masaryk University](https://www.muni.cz/)

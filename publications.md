@@ -1,3 +1,8 @@
+---
+[Intro](index.html) | [Mysteries](research.html) | **[Scribblings](publications.html)** | [Preaching](teaching.html) | [Boring](bio.html) | [Other](life.html) | [Where?](contact.html)
+---
+
+
 A day may come when I will manage to cough up a script for populating this list properly. Alas, I don't see that day coming any time soon, so for now I'll only dump some of the more recent and/or interesting stuff here:
 
 *   [Accurate Prediction of Kinase-Substrate Networks Using Knowledge Graphs](https://www.biorxiv.org/content/10.1101/865055v1.abstract). V Nováček et al. - PLOS Computational Biology, in print.
