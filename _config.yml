@@ -8,22 +8,22 @@ docs_list_title: Navigation
 docs:
 
 - title: Professional bio
-  url: bio.md
+  url: bio.html
 
 - title: Contact information
-  url: contact.md
+  url: contact.html
 
 - title: Quick intro
-  url: index.md
+  url: index.html
   
 - title: Not so professional bio
-- url: life.md
+- url: life.html
 
 - title: Research scribblings
-- url: publications.md
+- url: publications.html
 
 - title: Scientific mysteries
-- url: research.md
+- url: research.html
 
 - title: Preaching knowledge
-- url: teaching.md
+- url: teaching.html
