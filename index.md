@@ -1,5 +1,5 @@
 ---
-**[Intro](index.html)** | [Mysteries](research.html) | [Scribblings](publications.html) | [Preaching](teaching.html) | [Boring](bio.html) | [Other](life.html) | [Where?](contact.html)
+**[Intro](index.html)** / [Mysteries](research.html) / [Scribblings](publications.html) / [Preaching](teaching.html) / [Boring](bio.html) / [Other](life.html) / [Where?](contact.html)
 ---
 
 Hey, I'm **Vít**. In the context of this web space, I'm primarily an [Assistant Professor](https://is.muni.cz/person/vitya) of Computer Science at the [Faculty of Informatics](https://www.fi.muni.cz/) of [Masaryk University](https://www.muni.cz/). Other than that, I still help to lead the [Unit for Biomedical Discovery Informatics](https://dsi.nuigalway.ie/units/bdi) at the [Data Science Institute](https://dsi.nuigalway.ie/) of [National University of Ireland Galway](https://www.nuigalway.ie/) where I worked full-time until August 2020. Nováček is the second name, by the way. You may also call me dubious doctor of philosophy, not quite full professor, an incessantly puzzled scholar or whatever other fancy title suits you. But I sure won't mind Vít, Vítek or Víťa if that's what you would prefer (perhaps slightly foolishly, I tend to believe mutual respect is not necessarily correlated with formal figures of speech).

@@ -1,5 +1,5 @@
 ---
-[Intro](index.html) | [Mysteries](research.html) | [Scribblings](publications.html) | **[Preaching](teaching.html)** | [Boring](bio.html) | [Other](life.html) | [Where?](contact.html)
+[Intro](index.html) / [Mysteries](research.html) / [Scribblings](publications.html) / **[Preaching](teaching.html)** / [Boring](bio.html) / [Other](life.html) / [Where?](contact.html)
 ---
 
 As of the **Fall** semester of **2020**, I teach the following course:
