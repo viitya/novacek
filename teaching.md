@@ -1,4 +1,4 @@
-[Intro](index.html) / [Mysteries](research.html) / [Scribblings](publications.html) / [Preaching](teaching.html) / [Boring](bio.html) / [Other](life.html) / [Where?](contact.html)
+[Intro](index.html) / [Mysteries](research.html) / [Scribblings](publications.html) / **[Preachings](teaching.html)** / [Boring](bio.html) / [Other](life.html) / [Contact](contact.html)
 
 ---
 
