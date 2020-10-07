@@ -2,7 +2,7 @@
 
 ---
 
-Wonder what I do when I'm not striving to spawn new knowledge and pass it onto others? Well, some say a picture is worth a thousands words. Lo and behold, then...
+Wonder what I do when I'm not striving to spawn new knowledge and pass it onto others? Well, some say a picture is worth a thousand words. Lo and behold, then...
 
 ![Blue collage.](img/blue.png)
 
