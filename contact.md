@@ -2,7 +2,7 @@
 
 ---
 
-When I'm not too freaked out about the swarms of viruses raging in public places, one can find me in the **office C.221** at the [Faculty of Informatics](https://www.fi.muni.cz/) of [Masaryk University](https://www.muni.cz/). My goal for the pandemic Fall semester of 2020 is to be there at the very least on **Mondays**, and I would typically be available for **individual meetings** (e.g. with students) between **3-5pm** on those days. Arranging a meeting at a different time is always possible - just let me know at least 2 days ahead and we'll figure it out somehow.
+When I'm not (probably quite [rightfully](https://www.respekt.cz/tydenik/2020/41/myty-a-omyly)) freaking out about the rather buggy Czech localisation of Pandemic v2.0, one can find me in the **office C.221** at the [Faculty of Informatics](https://www.fi.muni.cz/) of [Masaryk University](https://www.muni.cz/). My goal for the Fall semester of 2020 is to be there at the very least on **Mondays**, and I would typically be available for **individual meetings** (e.g. with students) between **3-5pm** on those days. Arranging a meeting at a different time is always possible - just let me know at least 2 days ahead and we'll figure it out somehow.
 
 My **office phone** is +420 549 497 549.
 
