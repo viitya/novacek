@@ -5,8 +5,8 @@
 
 A day may come when I will manage to cough up a script for populating this list properly. Alas, I don't see that day coming any time soon, so for now I'll only dump some of the more recent and/or interesting stuff here:
 
-* [Accurate Prediction of Kinase-Substrate Networks Using Knowledge Graphs](https://www.biorxiv.org/content/10.1101/865055v1.abstract). V Nováček et al. - PLOS Computational Biology, in print.
 * [Biological applications of knowledge graph embedding models](https://doi.org/10.1093/bib/bbaa012). SK Mohamed, A Nounu, V Nováček - Briefings in Bioinformatics, in print.
+* [Accurate Prediction of Kinase-Substrate Networks Using Knowledge Graphs](https://doi.org/10.1371/journal.pcbi.1007578). V Nováček et al. - PLOS Computational Biology, 2020.
 * [Discovering protein drug targets using knowledge graph embeddings](https://doi.org/10.1093/bioinformatics/btz600). SK Mohamed, V Nováček, A Nounu - Bioinformatics, 2020.
 * [Facilitating prediction of adverse drug reactions by using knowledge graphs and multi-label learning models](https://doi.org/10.1093/bib/bbx099). E Muñoz, V Nováček, PY Vandenbussche - Briefings in bioinformatics, 2019.
 * [Proceedings of the Workshop on Semantic Web Solutions for Large-Scale Biomedical Data Analytics](http://ceur-ws.org/Vol-2477/), co-located with ISWC 2019\. A Hasnain, V Nováček, M Dumontier, D Rebholz-Schuhmann - CEUR-WS, 2019.
