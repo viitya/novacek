@@ -2,10 +2,10 @@
 
 ---
 
-When I'm not (probably [rightfully](https://www.respekt.cz/tydenik/2020/41/myty-a-omyly)) freaking out about the rather buggy Czech localisation of Pandemic v2.0, one can find me in the **office C.221** at the [Faculty of Informatics](https://www.fi.muni.cz/) of [Masaryk University](https://www.muni.cz/). Whether in person or online, I would typically be available for **individual meetings** (e.g. with students) between **3-5pm** every **Monday**. Arranging a meeting at a different time is always possible - just let me know at least 2 days ahead and we'll figure it out somehow.
+When I'm not freaking out about swarms of viruses raging in public places (v.2020) or a nuclear war looming just around the corner (v.2023), one can find me in the **office C221** at the [Faculty of Informatics](https://www.fi.muni.cz/) of [Masaryk University](https://www.muni.cz/). If you want to meet me there (or indeed anywhere else, be it physically or online), best is to let me know at least two days ahead and we'll figure it out somehow.
 
-My **office phone** is +420 549 497 549.
+My **office phone** is +420 5 4949 7549.
 
-Other than that, I should be able to respond pretty swiftly to any reasonable query via my **email** [novacek@fi.muni.cz](mailto:novacek@fi.muni.cz).
+My preferred contact is my **email** [novacek@fi.muni.cz](mailto:novacek@fi.muni.cz), though. When I'm not somewhere in the woods or lost at sea, I should respond pretty swiftly to any reasonable queries there.
 
-Last but not least, my **regular mail address** is: Vít Nováček, Office C.221, Botanická 68a, 602 00, Brno, Czech Republic.
+Last but not least, my **postal address** is: Vít Nováček, Office C221, Botanická 68a, 602 00, Brno, Czech Republic.
